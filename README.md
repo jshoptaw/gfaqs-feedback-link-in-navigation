@@ -1,6 +1,6 @@
 GameFAQs Feedback Link in Navigation
 ======================================
-Adds a link to the feedback system in the "quick nav" area of GameFAQs immediately after the "Help" link.
+Adds a link to the feedback system in the "quick nav" area of GameFAQs (placement is based on alphabetization).
 
 Use with one of the following browser extensions:
 

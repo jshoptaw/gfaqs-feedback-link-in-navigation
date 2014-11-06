@@ -10,14 +10,15 @@ Use with one of the following browser extensions:
 
 ### Google Chrome ###
 *	[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-*	Convert script to Google Chrome extension:
-
-	>1. Save the script (the `*.user.js` file) to your computer.
-	>2. In Chrome, go to _Tools > Extensions_.
-	>3. Drag/drop the user script file onto the _Extensions_ page.
 
 Release Notes
 =============
+
+Version 1.2
+-----------
+_Released 2014-11-06_
+
+*	Updated to properly alphabetize feedback link to fit with new stock sorting done by GameFAQs
 
 Version 1.1
 -----------

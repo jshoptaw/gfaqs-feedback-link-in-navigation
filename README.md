@@ -4,6 +4,8 @@ Adds a link to the feedback system in the "quick nav" area of GameFAQs (placemen
 
 Use with one of the following browser extensions:
 
+## THIS SCRIPT HAS BEEN DISCONTINUED AS OF 2015-09-29 AND WILL NO LONGER BE DEVELOPED ##
+
 ### Mozilla Firefox ###
 *	[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 *	[Scriptish](https://addons.mozilla.org/en-US/firefox/addon/scriptish/)
